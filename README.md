@@ -55,14 +55,14 @@ Aplikasi mampu melakukan pengelolaan file (object) pada bucket S3 melalui fungsi
 ## 📂 Struktur Project
 
 ```
-TB1-CloudVault
+TugasBesar-CloudVault
 │
 ├── CloudVault.ipynb
 ├── README.md
 ├── contoh.txt
 ├── contoh2.txt
 ├── docs
-│   ├── ManualBook.pdf
+│   ├── Manual_Book_CloudVault.pdf
 │   └── Screenshot1.png
 │   └── Screenshot2.png
 │   └── Screenshot3.png
