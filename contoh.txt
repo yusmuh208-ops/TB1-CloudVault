@@ -1,0 +1,7 @@
+CloudVault
+Tugas Besar Cloud Computing
+
+Nama : Muhammad Yusuf Anwar
+NIM  : 32602500068
+
+Ini adalah file pertama yang diupload ke MiniStack menggunakan boto3.
